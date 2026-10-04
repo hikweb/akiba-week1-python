@@ -1,0 +1,10 @@
+print("========================================")
+print("        STUDENT INTRODUCTION            ")
+print("========================================")
+print("My name is " + input("Full name: "))
+print("I am " + input("Age: ") + " years old.")
+print("I live in " + input("City: ") + ".")
+print("I study " + input("Department: ") + " at " + input("University: ") + ".")
+print("My favorite programming language is " + input("Favorite programming language: ") + ".")
+print("My programming goal is: " + input("one Programming goal: "))
+

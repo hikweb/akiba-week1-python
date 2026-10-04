@@ -1,0 +1,13 @@
+print('===============================')
+print("       RECEIPT                 ")
+print('===============================')
+Customer = input("Customer name: ")
+Product  = input("product name: ")
+Qty =int(input("Qty: "))
+Price =float(input("Price: "))
+total = Qty * Price
+print ("customer:", Customer)
+print ("product:", Product)
+print ("quantity:", Qty)
+print ("price:", Price)
+print ("total:", total)
